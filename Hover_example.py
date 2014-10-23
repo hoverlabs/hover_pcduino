@@ -27,12 +27,12 @@
 #   |_+++++++++++++++++++++++++++_|
 #   
 #  PIN 1 - HOST_V+    ----    5V pin 
-#  PIN 2 - RESET      ----    Any Digital Pin.  This example uses GPIO 2. 
+#  PIN 2 - RESET      ----    Any Digital Pin.  This example uses GPIO 4. 
 #  PIN 3 - SCL        ----    SCL pin
 #  PIN 4 - SDA        ----    SDA pin
 #  PIN 5 - GND        ----    Ground Pin
 #  PIN 6 - 3V3        ----    3V3 pin
-#  PIN 7 - TS         ----    Any Digital Pin.  This example uses GPIO 4.
+#  PIN 7 - TS         ----    Any Digital Pin.  This example uses GPIO 2.
 #   
 #  =============================================================================
 #
